@@ -23,7 +23,7 @@ This project involves analysing the Superstore dataset, available on https://www
 ### Step 3: Visualization
 - Exported SQL query results for visualisation.
 - Built an interactive Tableau dashboard:
-  ![Superstore KPI Dashboard](Superstore_KPI_Dashboard.png)
+![image alt](https://github.com/calebtan2002/Superstore-Sales-Analysis/blob/main/Superstore%20KPI%20Dashboard.png?raw=true))
 
 ## Tools used
 - SQL: For querying and analyzing the dataset.
