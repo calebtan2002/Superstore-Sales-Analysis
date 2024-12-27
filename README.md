@@ -18,6 +18,7 @@ This project involves analysing the Superstore dataset, available on https://www
 
 ### Step 2: SQL Analysis
 - Ran SQL queries to uncover any trends and interesting finds
+- Provide some business insights to improve the store
 
 ### Step 3: Visualization
 - Exported SQL query results for visualisation.
